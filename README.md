@@ -7,15 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [YoutubeClone](https://github.com/CesarAugusto316/youtube-clone)
+- 🔭 I’m currently working on [Cometa mobile app](https://github.com/cometa-dani)
 
 - 🌱 I’m currently mastering **Docker,**
 
-- 🌱 I’m currently needding help [with express authentication](https://github.com/CesarAugusto316/express_migrate)
-
 - 👨‍💻 All of my projects are available at [http://react-final-pi.vercel.app/](http://react-final-pi.vercel.app/)
 
-- 💬 Ask me about **react, typescript**
+- 💬 Ask me about **react, typescript, node**
 
 - 📫 How to reach me **riveramirandac@gmail.com**
 
