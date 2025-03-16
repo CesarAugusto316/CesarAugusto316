@@ -7,9 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Cometa mobile app](https://github.com/cometa-dani)
 
-- 🌱 I’m currently mastering **Docker,**
+## 🚀 Organizations
+I'm a member of:
+- [VLG](https://github.com/victoria-line-group)
+- [Corteva](https://github.com/CortevaOrg)
+- [Cometa](https://github.com/cometa-dani)
+
 
 - 👨‍💻 All of my projects are available at [http://react-final-pi.vercel.app/](http://react-final-pi.vercel.app/)
 
